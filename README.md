@@ -1,4 +1,4 @@
-# Flutter - Prevent Screenshots and Screen Recordings on mobile [2021]
+# Flutter - Prevent Screenshots and Screen Recordings on mobile & web [2021]
 
 
 
